@@ -2,7 +2,7 @@ Package: mssearchr
 Type: Package
 Title: Library Search Against Electron Ionization Mass Spectral
         Databases
-Version: 0.1.1
+Version: 0.2.0
 Authors@R: person("Andrey", "Samokhin", , "andrey.s.samokhin@gmail.com",
                   role = c("aut", "cre", "cph"),
                   comment = c(ORCID = "0000-0003-0223-6087"))
@@ -19,12 +19,12 @@ Suggests: testthat (>= 3.0.0)
 LinkingTo: Rcpp
 Config/testthat/edition: 3
 Encoding: UTF-8
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 NeedsCompilation: yes
 LazyData: true
-Packaged: 2024-06-24 15:11:58 UTC; Andrey
+Packaged: 2024-12-09 11:54:21 UTC; Andrey
 Author: Andrey Samokhin [aut, cre, cph]
     (<https://orcid.org/0000-0003-0223-6087>)
 Maintainer: Andrey Samokhin <andrey.s.samokhin@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-06-25 11:40:36 UTC
+Date/Publication: 2024-12-09 12:30:06 UTC
